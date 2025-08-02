@@ -4,3 +4,4 @@
 
 # Weaknesses
 - Struggles with binary (i.e. non-text) files
+- Struggles with large files
