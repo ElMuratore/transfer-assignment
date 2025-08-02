@@ -3,3 +3,4 @@
 - Great for collaboration
 
 # Weaknesses
+- Struggles with binary (i.e. non-text) files
